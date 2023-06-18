@@ -140,7 +140,6 @@ const Browse = props => {
                 handleSelect={handleSelect}
                 currentFilter={currentFilter} 
               />
-
               <div className={styles.list}>
                 <div className={styles.applied}>
                   <div className={styles.filterList}>
